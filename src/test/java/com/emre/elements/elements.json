@@ -1,0 +1,48 @@
+[
+  {
+    "key": "continueWithoutRegister",
+    "value": "//android.widget.TextView[@resource-id=\"com.akakce.akakce:id/continueWithoutRegister\"]",
+    "type": "xpath"
+  },{
+    "key": "searchTextView",
+    "value": "//android.widget.EditText[@resource-id=\"com.akakce.akakce:id/searchTextView\"]",
+    "type": "xpath"
+  },{
+    "key": "searchTextView2",
+    "value": "//android.widget.EditText[@resource-id=\"com.akakce.akakce:id/searchTextView\" and @text=\"Neyi ucuza almak istiyorsun?\"]",
+    "type": "xpath"
+  },{
+    "key": "filter",
+    "value": "//android.widget.ImageView[@resource-id=\"com.akakce.akakce:id/filter\"]",
+    "type": "xpath"
+  },{
+    "key": "Bilgisayar",
+    "value": "//android.widget.TextView[@text=\"Bilgisayar, Donanım\"]",
+    "type": "xpath"
+  },{
+    "key": "applyFilterTextView",
+    "value": "//android.widget.TextView[@resource-id=\"com.akakce.akakce:id/applyFilterTextView\"]",
+    "type": "xpath"
+  },{
+    "key": "sortText",
+    "value": "//android.widget.TextView[@resource-id=\"com.akakce.akakce:id/sortText\"]",
+    "type": "xpath"
+  },{
+    "key": "HighestPrice",
+    "value": "//android.widget.TextView[@resource-id=\"com.akakce.akakce:id/sort_name\" and @text=\"En Yüksek Fiyat\"]",
+    "type": "xpath"
+  },{
+    "key": "TenthProduct",
+    "value": "(//android.view.ViewGroup[@resource-id=\"com.akakce.akakce:id/cellContainer\"])[10]",
+    "type": "xpath"
+  },{
+    "key": "detailBtnTextView",
+    "value": "//android.widget.TextView[@resource-id=\"com.akakce.akakce:id/detailBtnTextView\"]",
+    "type": "xpath"
+  },{
+    "key": "GoToSeller",
+    "value": "//android.widget.TextView[@text=\"Satıcıya Git\"]",
+    "type": "xpath"
+  }
+
+]
